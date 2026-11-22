@@ -141,6 +141,15 @@ Commits in English. `deploy.yml` builds every push to `main` and publishes the r
 | ---------------------------------------- | ------------------------------------------------------------- |
 | [docs/repository.md](docs/repository.md) | GitHub description and topics, and the command that sets them |
 
+## Versions
+
+This repository stays as the team left it; the project continues as version 2.
+
+| Version | Repository | Made by |
+| --- | --- | --- |
+| 1: Filmoteka (this repository) | `tmdb-movie-browser` | HiFiveTeam (see Team below) |
+| 2: Frame | [`movie-discovery`](https://github.com/DamTchorzewski/movie-discovery) | [Damian Tchorzewski](https://github.com/DamTchorzewski) |
+
 ## Team
 
 HiFiveTeam; the roles are the ones the team wrote down.
